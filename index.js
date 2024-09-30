@@ -5,3 +5,7 @@ prompt("Enter Your age") > 20
   alert('test from github');
 
   alert('From Local')
+  alert('From Local')
+  alert('From Local')
+  alert('From Local')
+  alert('From Local')
