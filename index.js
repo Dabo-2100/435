@@ -3,3 +3,5 @@ prompt("Enter Your age") > 20
   : console.log("Go Out");
 
   alert('test from github');
+
+  alert('From Local')
